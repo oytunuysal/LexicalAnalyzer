@@ -1,0 +1,43 @@
+Keyword (int)
+Identifier (size)
+EndOfLine
+Keyword (int)
+Identifier (sum)
+EndOfLine
+Keyword (move)
+Integer (5)
+Keyword (to)
+Identifier (size)
+EndOfLine
+Keyword (loop)
+Identifier (size)
+Keyword (times)
+StartofCodeBlock ([)
+Keyword (out)
+Identifier (size)
+Comma (,)
+String ("this is a string")
+Comma (,)
+StringEOL
+Comma (,)
+Identifier (newlinecinema)
+EndOfLine
+Keyword (add)
+Identifier (size)
+Keyword (to)
+Identifier (sum)
+EndOfLine
+Keyword (add)
+Identifier (size)
+Keyword (to)
+Identifier (sum)
+EndOfLine
+EndofCodeBlock (])
+Keyword (out)
+String ("something")
+Comma (,)
+Identifier (sum)
+EndOfLine
+Keyword (int)
+Identifier (somet)
+EndOfLine

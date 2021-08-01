@@ -1,0 +1,9 @@
+loop 10 times out "*". {writes 10 stars on the screen}
+int size.
+int sum.
+move 5 to size.
+loop size times
+[ out size, newline.
+  add size to sum.
+]
+out newline, "Sum:", sum.

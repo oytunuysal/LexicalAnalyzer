@@ -1,0 +1,16 @@
+{this is a comment}
+int size.
+int sum.
+move 5 to size.
+{this is also a comment}
+loop size times
+[
+{another one}
+out size, "this is a string", newline, newlinecinema.{int a.}
+add size to {sub a from b} sum.
+add size to sum.
+]
+
+out "something" , sum.
+int somet.
+{.}
